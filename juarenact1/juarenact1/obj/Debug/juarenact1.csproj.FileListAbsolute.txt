@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\juarenact1\juarenact1\bin\Debug\juarenact1.exe.config
+C:\Users\Admin\source\repos\juarenact1\juarenact1\bin\Debug\juarenact1.exe
+C:\Users\Admin\source\repos\juarenact1\juarenact1\bin\Debug\juarenact1.pdb
+C:\Users\Admin\source\repos\juarenact1\juarenact1\obj\Debug\juarenact1.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\juarenact1\juarenact1\obj\Debug\juarenact1.login.resources
+C:\Users\Admin\source\repos\juarenact1\juarenact1\obj\Debug\juarenact1.MainMenu.resources
+C:\Users\Admin\source\repos\juarenact1\juarenact1\obj\Debug\juarenact1.register.resources
+C:\Users\Admin\source\repos\juarenact1\juarenact1\obj\Debug\juarenact1.Properties.Resources.resources
+C:\Users\Admin\source\repos\juarenact1\juarenact1\obj\Debug\juarenact1.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\juarenact1\juarenact1\obj\Debug\juarenact1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\juarenact1\juarenact1\obj\Debug\juarenact1.exe
+C:\Users\Admin\source\repos\juarenact1\juarenact1\obj\Debug\juarenact1.pdb
